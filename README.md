@@ -57,3 +57,7 @@ ETag值的变更说明资源状态已经被修改。往往可以通过时间戳�
 
 Date：Date头域表示消息发送的时间，时间的描述格式由rfc822定义。例如，Date: Mon, 04 Jul 2011 05:53:36 GMT。
 Age：当代理服务器用自己缓存的实体去响应请求时，用该头部表明该实体从产生到现在经过多长时间了。
+
+盗狼叔的图
+
+![image](https://user-images.githubusercontent.com/9944527/29805178-94daffce-8cba-11e7-8c8f-13cf9c314462.png)
