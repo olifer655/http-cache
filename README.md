@@ -64,3 +64,4 @@ Age：当代理服务器用自己缓存的实体去响应请求时，用该头�
 盗狼叔的图
 
 ![image](https://user-images.githubusercontent.com/9944527/29805178-94daffce-8cba-11e7-8c8f-13cf9c314462.png)
+！[image](https://raw.githubusercontent.com/etoah/BrowserCachePolicy/master/assets/finalized.png)
